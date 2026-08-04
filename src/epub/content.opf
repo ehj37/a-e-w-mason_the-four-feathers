@@ -57,7 +57,7 @@
 		<meta property="term" refines="#subject-8">Unknown</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young man sets off to regain his honor after his resignation from the military on the eve of deployment brands him a coward.</dc:abstract>
+		<meta property="schema:abstract">A young man sets off to regain his honor after his resignation from the military on the eve of deployment brands him a coward.</meta>
 		<dc:description>
 			&lt;p&gt;Recently engaged Harry Feversham, son of a soldier and descendant of a long line of soldiers, receives word that his regiment is going overseas. For complex reasons he suddenly resigns rather than be deployed. This action brands him a coward among his fellow officers and his fiancée, who present him with white feathers, a symbol of cowardice.&lt;/p&gt;
 			&lt;p&gt;To regain his honor, Feversham sets out for Egypt and Sudan, where he awaits opportunities to redeem himself. His daring adventures are beset with betrayal, torture, and imprisonment. Meanwhile, his fiancée is racked with regret, and tries to convince herself she no longer loves him, while simultaneously becoming romantically entangled with Feversham’s friend, a soldier in the regiment.&lt;/p&gt;
